@@ -20,7 +20,7 @@ My interests include:
 * Vulnerability Assessment
 * Network Security
 * Capture The Flag challenges
-* 🔎 security Research
+*  security Research
 *  Automation & Scripting
 
 ## 🚀 What I'm Currently Working On
