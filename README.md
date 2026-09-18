@@ -98,7 +98,7 @@ I use GitHub to:
 
 ## 📫 How to Reach Me
 
-* 💻 **GitHub:** [github.com/yourusername](https://github.com/)
+* 💻 **GitHub:** [github.com/letlotlo-sudo](https://github.com/)
 * 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
 * 📧 **Email:** `your-email@example.com`
 
